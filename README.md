@@ -8,6 +8,6 @@ This repository contains the second project completed for the Udacity Intro to M
 This project uses the following python libraries:
 * numpy
 * pandas
-* sklearn
+* pytorch and torchvision
 * matplotlib
 Jupyter notebook is also required.
